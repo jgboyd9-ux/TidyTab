@@ -1,0 +1,18 @@
+[
+  {
+    "id": "3c6ebe9f-e2f4-460a-a77b-1f2ecf9ea19f",
+    "property": "789 Future Ave",
+    "start": "2025-07-25T10:24:22.000Z",
+    "end": "2025-07-25T14:24:22.000Z",
+    "status": "Unassigned",
+    "primaryPhone": null,
+    "primaryName": null,
+    "primaryAvatarUrl": null,
+    "backupPhone": null,
+    "backupName": null,
+    "backupAvatarUrl": null,
+    "secondaryPhone": null,
+    "secondaryName": null,
+    "secondaryAvatarUrl": null
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1ad30db4-0f70-432f-836c-0e8cca6b0598",
+    "property": "789 Future Ave",
+    "start": "2025-07-25T10:24:22.000Z",
+    "end": "2025-07-25T14:24:22.000Z",
+    "status": "Confirmed",
+    "primaryPhone": "+11234567890",
+    "backupPhone": "+11234567891",
+    "secondaryPhone": "+11234567892"
+  }
+]

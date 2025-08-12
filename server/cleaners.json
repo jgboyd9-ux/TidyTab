@@ -1,0 +1,48 @@
+{
+  "11234567890": {
+    "name": "Ana Martinez",
+    "avatarUrl": "/uploads/avatars/1753822806047-avatar.jpg",
+    "favorite": false
+  },
+  "11234567891": {
+    "name": "James Liu",
+    "avatarUrl": "/avatars/james.png"
+  },
+  "11234567892": {
+    "name": "Sara Patel",
+    "avatarUrl": "/avatars/sara.png"
+  },
+  "+11234567895": {
+    "name": "Tester 1",
+    "avatarUrl": null
+  },
+  "11234567896": {
+    "name": "Bob Duncan",
+    "avatarUrl": "/uploads/avatars/1753820524696-GuyHeadShot.jpg",
+    "favorite": false
+  },
+  "WfQIu6K29CX6dj6e7euHxD7rCFd2": {
+    "11234567890": {
+      "name": "Bob Duncan",
+      "avatarUrl": "/uploads/avatars/1753837661243-avatar.jpg",
+      "favorite": false
+    },
+    "11234567893": {
+      "name": "Annette Martinez",
+      "avatarUrl": "/uploads/avatars/1753837749045-avatar.jpg",
+      "favorite": false
+    }
+  },
+  "BquB9q976DYfu3vxss12g0JQAIq2": {
+    "11234567890": {
+      "name": "Dave Thompson",
+      "avatarUrl": "/uploads/avatars/1753839903234-avatar.jpg",
+      "favorite": false
+    },
+    "11234567895": {
+      "name": "John Sawyer",
+      "avatarUrl": "/uploads/avatars/1753839968739-avatar.jpg",
+      "favorite": false
+    }
+  }
+}

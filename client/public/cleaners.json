@@ -1,0 +1,17 @@
+[
+  {
+    "phone": "11234567890",
+    "name": "Ana Martinez",
+    "avatarUrl": "/avatars/ana.png"
+  },
+  {
+    "phone": "11234567891",
+    "name": "James Liu",
+    "avatarUrl": "/avatars/james.png"
+  },
+  {
+    "phone": "11234567892",
+    "name": "Sara Patel",
+    "avatarUrl": "/avatars/sara.png"
+  }
+]

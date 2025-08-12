@@ -1,0 +1,56 @@
+[
+  {
+    "cleaner": " 11234567890",
+    "response": "YES",
+    "jobId": null,
+    "timestamp": "2025-07-25T17:49:46.633Z"
+  },
+  {
+    "cleaner": " 11234567890",
+    "response": "YES",
+    "jobId": null,
+    "timestamp": "2025-07-25T17:50:32.950Z"
+  },
+  {
+    "cleaner": " 11234567890",
+    "response": "YES",
+    "jobId": null,
+    "timestamp": "2025-07-25T17:50:46.754Z"
+  },
+  {
+    "cleaner": "11234567890",
+    "response": "YES",
+    "jobId": "94c1d5e3-ae14-41de-a418-c92e9b3d82bc",
+    "timestamp": "2025-07-25T17:55:48.211Z"
+  },
+  {
+    "cleaner": "11234567890",
+    "response": "YES",
+    "jobId": "94c1d5e3-ae14-41de-a418-c92e9b3d82bc",
+    "timestamp": "2025-07-25T17:59:36.547Z"
+  },
+  {
+    "cleaner": "11234567890",
+    "response": "YES",
+    "jobId": "324e100e-907d-432e-8a21-0dd252bc6c9f",
+    "timestamp": "2025-07-25T18:03:18.949Z"
+  },
+  {
+    "cleaner": "11234567890",
+    "response": "YES",
+    "jobId": "f6d53b21-ac12-4f10-a831-519f374853da",
+    "timestamp": "2025-07-25T18:21:14.604Z"
+  },
+  {
+    "cleaner": "11234567890",
+    "response": "YES",
+    "jobId": "d0241dd3-8b0a-49aa-84c1-f70ab4b6d734",
+    "timestamp": "2025-07-25T18:24:48.960Z"
+  },
+  {
+    "cleaner": "11234567890",
+    "response": "YES",
+    "jobId": "660ca28b-3ed3-463f-a9de-b10e46e79633",
+    "timestamp": "2025-07-25T18:36:57.939Z"
+  }
+]
